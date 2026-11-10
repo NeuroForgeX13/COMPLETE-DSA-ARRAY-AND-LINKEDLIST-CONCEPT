@@ -1,0 +1,102 @@
+1. What is DSA?
+Definition (English):
+
+"Data Structures and Algorithms (DSA) is a way of organizing, storing, and processing data efficiently to solve problems."
+
+Roman Urdu:
+
+DSA ka matlab Data Structures and Algorithms hai. Ismein hum data ko organize aur store karna seekhte hain aur algorithms ki help se problems solve karte hain.
+
+Example:
+- Array
+- Linked List
+- Stack
+- Queue
+- Tree
+- Graph
+- Searching and Sorting
+2. What is the Purpose of DSA?
+English:
+1. To organize data efficiently.
+2. To solve complex problems.
+3. To improve program performance.
+4. To reduce time and memory usage.
+5. To search and sort data efficiently.
+Roman Urdu:
+
+DSA ka purpose data ko efficiently manage karna, complex problems solve karna aur program ki speed improve karna hai.
+3. Advantages of DSA
+1. Efficiency: Improves program performance.
+2. Time Saving: Reduces execution time.
+3. Memory Management: Uses memory efficiently.
+4. Problem Solving: Helps solve complex problems.
+5. Data Organization: Organizes data properly.
+6. Reusability: Data structures can be reused in different programs.
+4. Disadvantages of DSA
+1. Complexity: Some data structures are difficult to understand.
+2. Implementation: Requires proper coding knowledge.
+3. Memory Overhead: Some structures require extra memory.
+4. Time Consuming: Implementation and selection can take time.
+5. Debugging: Complex algorithms can be difficult to debug.
+5. What is Linked List?
+Definition (English):
+
+"A linked list is a linear data structure in which elements are stored in nodes, and each node contains data and a pointer to the next node."
+
+Roman Urdu:
+
+Linked List aik linear data structure hai jisme data nodes mein store hota hai. Har node mein data aur next node ka address hota hai.
+
+Diagram:
+Head
+ |
+ v
+[10|*] -> [20|*] -> [30|NULL]
+
+
+6. Purpose of Linked List
+1. To store dynamic data.
+2. To insert elements easily.
+3. To delete elements easily.
+4. To use memory dynamically.
+5. To manage data without requiring continuous memory locations.
+Roman Urdu:
+
+Linked List ka purpose data ko dynamically store karna aur insertion/deletion ko easily perform karna hai.
+7. Advantages of Linked List
+1. Dynamic Size: Can grow or shrink at runtime.
+2. Easy Insertion: Elements can be inserted easily.
+3. Easy Deletion: Elements can be deleted without shifting.
+4. Memory Allocation: Memory is allocated dynamically.
+5. No Contiguous Memory: Nodes do not need continuous memory locations.
+8. Disadvantages of Linked List
+1. Extra Memory: Requires extra memory for pointers.
+2. No Random Access: Cannot directly access elements by index.
+3. Traversal: Must visit nodes one by one.
+4. Complexity: Implementation is more complex than arrays.
+5. Searching: Searching can take more time.
+9. Importance of Linked List
+1. Used in implementing Stack and Queue.
+2. Used in Music Playlists.
+3. Used in Browser Navigation.
+4. Used in Memory Management.
+5. Used in Operating Systems.
+6. Used in Undo and Redo operations.
+10. Array vs Linked List
+Array	Linked List
+Fixed size (static array)	Dynamic size
+Contiguous memory	Non-contiguous memory
+Direct access possible	Sequential access
+Insertion requires shifting	Insertion updates pointers
+Deletion requires shifting	Deletion updates pointers
+No pointer required	Pointer required
+
+11. Quick Exam Revision
+Question	One-Line Answer
+What is DSA?	Organizing data and solving problems using algorithms.
+Purpose of DSA?	To improve efficiency and solve problems.
+What is Linked List?	A linear structure consisting of connected nodes.
+Purpose of Linked List?	To manage dynamic data efficiently.
+Advantage?	Dynamic size and easy insertion/deletion.
+Disadvantage?	Extra pointer memory and no direct access.
+Importance?	Used in stacks, queues and playlists.
